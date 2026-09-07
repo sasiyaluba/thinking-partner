@@ -18,6 +18,7 @@ Not a lecture — a sparring session. Turns your AI agent into a thinking partne
 - **Applies mental models** — Selects and deploys the right frameworks for your situation (150+ models across 17 disciplines)
 - **Detects orientation capture** — Notices when your thinking serves comfort instead of truth
 - **Maintains productive tension** — Holds complexity open long enough to find real insight
+- **Keeps each turn focused** — Answers the exact question with minimum sufficient information, revealing depth only when needed
 
 ## When It Triggers
 
